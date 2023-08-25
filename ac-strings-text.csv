@@ -1,0 +1,12 @@
+Key,Android,iOS,Web,English,French,Spanish
+general.cancel,FALSE,FALSE,TRUE,Cancel,Annuler,Cancelar
+general.delete,FALSE,FALSE,TRUE,Delete,Supprimer,Suprimir
+general.view,FALSE,FALSE,TRUE,View,Afficher,Ver
+general.back,FALSE,FALSE,TRUE,Back,Retour,Anterior
+general.close,FALSE,FALSE,TRUE,Close,Fermer,Cerrar
+general.error,FALSE,FALSE,TRUE,Error,Erreur,Error
+general.externalLink,FALSE,FALSE,TRUE,external link,Lien externe,
+generalk.externalLinkTitle,FALSE,FALSE,TRUE,Opens in a new window,Ouvre dans une nouvelles fenatre,
+general.next,FALSE,FALSE,TRUE,Next,Suivant,Siguiente
+button_ok,TRUE,TRUE,FALSE,Ok,Ok,De acuerdo
+button_close,TRUE,TRUE,FALSE,Close,Fermer,Cerrar

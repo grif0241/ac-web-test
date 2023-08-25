@@ -1,0 +1,14 @@
+{
+  "name": "web-strings-test",
+  "version": "1.0.0",
+  "description": "test app to convert web ac strings into a ts file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tyler g",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.2"
+  }
+}
